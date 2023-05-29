@@ -801,6 +801,7 @@ It is Friday!! 🥳😎✌️
   <tr>
    <td>Submitting project plans: 
      <p>
+       <br>
        Elevator pitches
      </p>
    </td>
