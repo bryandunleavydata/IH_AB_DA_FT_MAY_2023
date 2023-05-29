@@ -799,7 +799,10 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>Submitting project plans
+   <td>Submitting project plans: 
+     <p>
+       Elevator pitches
+     </p>
    </td>
    <td>Work on the project
    </td>
