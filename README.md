@@ -200,11 +200,10 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/master/Class_Materials/Python_Basics/Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/tree/master/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+<a href="https://github.com/data-bootcamp-v4/lab-python-data-structures">[Lab] Python Built-In Data Structures</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/master/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1QDrvALgEfzewKlyI5t8Iq5mieXNxb1nQl8OdD7UV9yw/edit?usp=sharing">[Presentation] Python Functions</a>
 <p>
@@ -218,7 +217,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/master/Class_Materials/Python_Basics/List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/tree/master/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
+<a href="https://github.com/data-bootcamp-v4/lab-python-functions">[Lab] Python Functions</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1ex3m_Gmrfne_l8oQqFjpwkWfCtQTr3co-pdtKVAiGPY/edit?usp=sharing">[Presentation] Programming Tips</a>
 <p>
