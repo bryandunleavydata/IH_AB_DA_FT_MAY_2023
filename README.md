@@ -168,7 +168,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
+<a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/master/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
 <p>
 <a href="https://github.com/repicao/IH_AB_DA_FT_MAY_2023/blob/master/Class_Materials/Git_GitHub/Labs/Lab_Git.md">[LAB] Git</a>
 <p>
